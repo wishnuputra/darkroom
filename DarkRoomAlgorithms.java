@@ -3,7 +3,8 @@
  * --------------------------
  * This class provides the methods of image processing for
  * DarkRoom.java
- * 
+ * Author: Wishnuputra Dhanu
+ * Date: 16 May 2019
  */
 
 
